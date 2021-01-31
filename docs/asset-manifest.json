@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/css/main.ea1455b2.chunk.css",
+    "main.js": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/main.1ed62a82.chunk.js",
+    "main.js.map": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/main.1ed62a82.chunk.js.map",
+    "runtime-main.js": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/runtime-main.3a325a91.js",
+    "runtime-main.js.map": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/runtime-main.3a325a91.js.map",
+    "static/js/2.924c9bea.chunk.js": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/2.924c9bea.chunk.js",
+    "static/js/2.924c9bea.chunk.js.map": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/2.924c9bea.chunk.js.map",
+    "static/js/3.a238be23.chunk.js": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/3.a238be23.chunk.js",
+    "static/js/3.a238be23.chunk.js.map": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/3.a238be23.chunk.js.map",
+    "index.html": "https://martaszczepaniak.github.io/turbo-octo-goggles/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.924c9bea.chunk.js.LICENSE.txt": "https://martaszczepaniak.github.io/turbo-octo-goggles/static/js/2.924c9bea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a325a91.js",
+    "static/js/2.924c9bea.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.1ed62a82.chunk.js"
+  ]
+}
