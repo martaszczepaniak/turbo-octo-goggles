@@ -17,6 +17,8 @@ jobs:
     - run: npm run test
     - name: Build
       run: npm run build
+      env:
+        PUBLIC_URL: "https://martaszczepaniak.github.io/turbo-octo-goggles"
     - name: Move build folder to docs
       run: mv build docs
       if: ${{ success() }}
